@@ -1,0 +1,15 @@
+Learnings:
+
+- mehrere Variabeln gleichzeitig definieren indem man sie mit Komma trennt z.B.
+let variable = undefined,
+variable 2 = undefined,
+variable 3 = undefined;
+
+- mit !Operator arbeiten um zu überprüfen ob Variabeln eingegeben bzw. zulässig sind
+
+- return; --> gibt true aus
+
+- Funktion aufsplitten --> mit separaten Hilfsfunktionen arbeiten
+
+- Reihenfolge der Parameter bei Funktionen ist relevant!!!
+
