@@ -156,7 +156,7 @@ function addWin(winner) {
 
 function setComputerMoves() {
     const moves = ['rock', 'paper', 'scissors'];
-    const moveOneType = moves[Math.floor(Math.random() * 3)]; // what the fuck? --> fuckin Array!
+    const moveOneType = moves[Math.floor(Math.random() * 3)]; 
     const moveTwoType = moves[Math.floor(Math.random() * 3)];
     const moveThreeType = moves[Math.floor(Math.random() * 3)];
     const moveOneValue = Math.floor(Math.random() * 96) + 1;
