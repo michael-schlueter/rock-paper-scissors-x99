@@ -2,6 +2,7 @@
 > This is a more intense version of the Rock-Paper-Scissors game. Each player has three moves and is able to boost each move with a strength value which breaks a potential tie.
 
 
+
 ## General Information
 - This project is part of the Codecademy "Create a Back-End App with JavaScript" course
 - The aim of this project was to get familiar with conditional statements in JavaScript
@@ -25,6 +26,12 @@
 
 ## Screenshots
 ![Example screenshot](https://i.ibb.co/kDG5SXY/rps-x99-screenshot.jpg)
+
+
+
+## Demo
+Live demo [_here_](https://silly-mahavira-81dde4.netlify.app/).
+
 
 
 ## Setup
